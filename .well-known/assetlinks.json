@@ -2,7 +2,16 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.mario_o_o.twa",
-        "sha256_cert_fingerprints": ["00:EC:BF:07:8A:19:98:54:C5:E2:C3:55:FF:31:DE:52:6C:AE:79:55:97:C1:48:E9:AE:1A:0F:E2:E0:BD:98:7B"]
+        "package_name": "io.github.mario_o_o.notas",
+        "sha256_cert_fingerprints": ["A8:CE:EE:C5:DB:8C:09:E7:74:9E:BF:83:6F:F3:4E:CE:D0:58:4F:D0:E3:A8:C8:B2:B2:24:2F:E0:4D:C7:B3:1D"]
       }
-    }]
+    },
+  {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mario_o_o.twa",
+        "sha256_cert_fingerprints": ["76:FC:B8:6A:6C:42:21:C2:2B:70:F6:65:36:85:5F:DE:27:4A:64:24:E1:81:EF:5C:83:FB:47:1E:E5:04:9A:49"]
+      }
+    }
+  ]
