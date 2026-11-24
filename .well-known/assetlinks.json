@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mario_o_o.twa",
+        "sha256_cert_fingerprints": ["00:EC:BF:07:8A:19:98:54:C5:E2:C3:55:FF:31:DE:52:6C:AE:79:55:97:C1:48:E9:AE:1A:0F:E2:E0:BD:98:7B"]
+      }
+    }]
