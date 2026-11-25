@@ -13,5 +13,13 @@
         "package_name": "io.github.mario_o_o.twa",
         "sha256_cert_fingerprints": ["76:FC:B8:6A:6C:42:21:C2:2B:70:F6:65:36:85:5F:DE:27:4A:64:24:E1:81:EF:5C:83:FB:47:1E:E5:04:9A:49"]
       }
+    },
+      {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.mario_o_o.cook",
+        "sha256_cert_fingerprints": ["C9:55:AE:F2:10:D7:DE:74:22:07:C6:7C:44:79:E9:6E:B3:A7:5A:E8:43:DB:67:1C:44:D0:B8:F4:91:E1:B0:40"]
+      }
     }
   ]
