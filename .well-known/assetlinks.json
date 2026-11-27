@@ -19,7 +19,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.mario_o_o.cook",
-        "sha256_cert_fingerprints": ["C9:55:AE:F2:10:D7:DE:74:22:07:C6:7C:44:79:E9:6E:B3:A7:5A:E8:43:DB:67:1C:44:D0:B8:F4:91:E1:B0:40"]
+        "sha256_cert_fingerprints": ["D8:F6:9E:99:FD:B7:66:FB:5E:E9:ED:60:89:AE:2F:E3:41:17:66:94:4A:89:E0:FA:9F:72:9B:92:8D:E8:62:C4"]
       }
     }
   ]
